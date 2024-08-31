@@ -1,6 +1,6 @@
 # HaskellChess
 
-This project is an ongoing chess application written entirely in Haskell. The program features AI using minimax with A/B pruning.
+This project is an ongoing chess application written entirely in Haskell. The program features deep algorithmic calculations using minimax with A/B pruning. Created by Jacob Swisher.
 
 # Instructions
 
